@@ -1,0 +1,2 @@
+client.on('ready', () => {
+    client.user.setActivity('lestatusdubot' ,(type:   'LISTENIGNS' ,url: 'l url'))
